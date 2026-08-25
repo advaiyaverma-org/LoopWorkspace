@@ -218,7 +218,6 @@ jobs:
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           now_line \
           profiles \
-          basal_lock \
           negative_insulin \
           remote_window \
           xdrip_cgm
