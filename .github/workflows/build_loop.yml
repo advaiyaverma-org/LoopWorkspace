@@ -213,13 +213,15 @@ jobs:
           /bin/bash -c "$(curl -fsSL \
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           future_carbs_4h \
+          low_carb_limit \
           override_sens \
+          now_line \
           2hlollipop \
           cgm_sensor_notes \
           profiles \
           basal_lock \
           negative_insulin \
-          remote_window \
+          remote_carb_edit \
           xdrip_cgm
 
           # the final customization listed above CANNOT have a continuation character
